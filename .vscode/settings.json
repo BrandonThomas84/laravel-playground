@@ -1,0 +1,8 @@
+{
+  "phpcs.executablePath": "./vendor/bin/phpcs",
+  "editor.insertSpaces": true,
+  "cSpell.ignorePaths": [
+    "composer.json",
+    "composer.lock",
+  ],
+}

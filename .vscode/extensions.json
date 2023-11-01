@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "ryanluker.vscode-coverage-gutters",
+    "visualstudioexptteam.vscodeintellicode",
+    "ryannaddy.laravel-artisan",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "xdebug.php-debug",
+    "bmewburn.vscode-intelephense-client",
+    "shevaua.phpcs",
+    "emallin.phpunit",
+    "esbenp.prettier-vscode"
+  ]
+}
